@@ -2,7 +2,7 @@
   "basics": {
     "name": "Blair Muraoka",
     "label": "Student",
-    "picture": "https://blairmuraoka.github.io/template/images/blair.png",
+    "picture": "https://blairmuraoka.github.io/template/images/blair.jpg",
     "email": "blairmuraoka@gmail.com",
     "phone": "",
     "website": "https://blairmuraoka.github.io",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "",
+      "name": "graphics",
       "keywords": [
       ]
     }
@@ -65,9 +65,7 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
@@ -85,27 +83,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii",
+      "position": "Computer Lab Assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2016-08-24",
+      "endDate": "present",
+      "summary": "Monitor and operate lab equipment in the School of Architecture, including taking care of software and hardware issues.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot software, hardware and networking issues around the building",
+        "Answer phone and email responses to the School of Architecture"
       ]
     }
   ],
