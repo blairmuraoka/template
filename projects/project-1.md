@@ -21,9 +21,8 @@ Incorporating the tool used a json file, provided by Dr. Stelovsky, which preloa
 Although very simple, the process of creating quizzes and thinking of thoughtful questions for the quiz really got you to really brainstorm and constantly tell yourself, "Is this question too easy? Is it even worth asking?" The meticulous process of making quizzes and taking other quizzes really got students to engage themselves into the course.
 
 Links: 
-<a href="https://www2.hawaii.edu/~bmura/ics311f16/index.html">ICS 311 Quizzes by Blair Muraoka</a>
-<a href="www.slippah.com/company-pages/">Slippah Quiz Making Site</a>
-  
+[ICS 311 Quizzes by Blair Muraoka](https://www2.hawaii.edu/~bmura/ics311f16/index.html)
+[Slippah Quiz Making Site](www.slippah.com/company-pages/)
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
