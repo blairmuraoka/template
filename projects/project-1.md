@@ -1,27 +1,29 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: images/slippah.png
+title: Slippah Quizmaker
+permalink: projects/slippah
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - html
+  - css
+summary: An interactive to make and take quizzes incorporating parWinr for ICS 311.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Slippah is an interactive quiz tool that implemented the parWinr interface, which was created by the professor of the class, Jan Stelovsky. The quiz tool creates an interactive platform for students to personalize and get creative with the material being taught. The students would then exchange quizzes within groups to complete by the next class.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Incorporating the tool used a json file, provided by Dr. Stelovsky, which preloaded a template with a provided video of the lecture to base our quizzes on. When the quizzes were finished, we imported it into a HTML file, which there was the option to just paste the video code into a 1-liner or personalize the page.
+
+Although very simple, the process of creating quizzes and thinking of thoughtful questions for the quiz really got you to really brainstorm and constantly tell yourself, "Is this question too easy? Is it even worth asking?" The meticulous process of making quizzes and taking other quizzes really got students to engage themselves into the course.
+
+Links: 
+<a href="https://www2.hawaii.edu/~bmura/ics311f16/index.html">ICS 311 Quizzes by Blair Muraoka</a>
+<a href="www.slippah.com/company-pages/">Slippah Quiz Making Site</a>
+  
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
