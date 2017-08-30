@@ -1,24 +1,20 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/bank-account.jpg
+title: Bank User Database
+permalink: projects/bank
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C++ 
+  
+summary: An interactive program that stores user credentials as an account on a file. Made in ICS 212.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+The bank database program I created was a project I made in ICS 212, and it taught me how to weave multiple files and classes in C++.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Bank User Database uses C++ as mentioned, and provides an interface for the user to basically create and modify account data. Account data would be credentials provided by the user, such as name, account numbers, addresses. The user could also print out data and manipulate the data.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This project taught me to understand how to manipulate linked links with much further depth and object-oriented programming. 
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
