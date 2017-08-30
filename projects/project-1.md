@@ -24,7 +24,6 @@ Links:
 [ICS 311 Quizzes by Blair Muraoka](https://www2.hawaii.edu/~bmura/ics311f16/index.html)
 [Slippah Quiz Making Site](www.slippah.com/company-pages/)
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
