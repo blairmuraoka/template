@@ -17,4 +17,4 @@ Bank User Database uses C++ as mentioned, and provides an interface for the user
 
 This project taught me to understand how to manipulate linked links with much further depth and object-oriented programming. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/blairmuraoka/bank-account-system">Bank Account System</a>
