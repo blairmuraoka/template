@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bank-account.jpg
+image: images/bank.png
 title: Bank User Database
 permalink: projects/bank
 date: 2016
