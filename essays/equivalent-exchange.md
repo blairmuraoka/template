@@ -29,11 +29,11 @@ I could drone on and pinpoint most of the points made on the <a href="http://www
 When I wanted to convey an example for this, <a href="https://stackoverflow.com/questions/46108292/urgent-answer-needed-about-sql">I wanted it to be absolutely terrible</a>. It took me about 30 minutes to find it, but I think it's worth it.
 
 Let's start with the title:
-<blockquote><i>Urgent answer needed about sql</i></blockquote>
+<blockquote style="color:grey"><i>Urgent answer needed about sql</i></blockquote>
 ...Even if you didn't get a chance to read the reference, I think its clear (not his title) that his title has no redeeming features. Therefore, who would even click that link to begin with? Besides people like myself purposely searching for something like this, nobody.
 
 Lets look at the first sentence now:
-<blockquote><i>There r two tables emp and dept.</i></blockquote>
+<blockquote style="color:grey"><i>There r two tables emp and dept.</i></blockquote>
 If I were an established developer and even gave this a chance to begin with, CTRL-W.
 
 Moving on from criticising almost every part of his question, his objective was to seek a quick answer just to move on from this entirely. He wasn't trying to learn, nor will he with this question. If anyone gave him a satisfactory answer, he might just come back with another ignorant question expecting an answer. 
