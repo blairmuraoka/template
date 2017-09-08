@@ -9,7 +9,7 @@ labels:
 ---
 
 <p>
-<img src="/images/askquestion.jpg"  style="float:left">
+<img src="/images/askquestion.jpg"  style="float:left; padding-right: 20px">
 When asking a question, it's hard to think that you're ever doing the person or community you are asking any favors, just being needy. In most cases, that is usually true. However, thought-provoking questions may appeal to those programmers who get off on these type of questions, although a very select few. Smart questions birth beautiful answers, which in turn breeds smart programmers, in which they will continue the cycle of discovering new answers to many new smart questions. On a more serious note, smart questions usually give the community an easier time with what you truly want to know, and sometimes engages them to have to think hard to come up with a solution. Because in this world, sometimes coming up with a solution is beneficial to themselves and not just for the reputation.
 </p>
 <h2>The Smart Way</h2>
