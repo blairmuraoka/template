@@ -14,11 +14,13 @@ When asking a question, it's hard to think that you're ever doing the person or 
 </p>
 <h2>The Smart Way</h2>
 In <a href="https://stackoverflow.com/questions/46078230/why-does-the-symantec-csr-checker-think-my-csr-is-missing-a-null-value-in-algori">this question</a>, the enquirer asks his question about how he is supposedly missing something in his work even though he is sure it is there. A couple things to note on why this question qualify as a "smart" question are:
-<ul><li>His title is very descriptive on what his problem is and what he is working with and includes where he is basing his work from.
+<ul><li>His title is very descriptive on what his problem is and what he is working with and includes where he is basing his work from.</li>
 
-<li>He drops a snippit of his code where he thinks the problem is located, and the output he is getting.
+<li>He drops a snippit of his code where he thinks the problem is located, and the output he is getting.</li>
 
-<li>He explains the problems symptoms clearly, and leaves his guesses to himself unless asked otherwise.</ul>
+<li>He explains the problems symptoms clearly, and leaves his guesses to himself unless asked otherwise.</li>
+</ul>
+
 I could drone on and pinpoint most of the points made on the <a href="http://www.catb.org/esr/faqs/smart-questions.html">How to ask questions the smart way page</a>, but I'm going to just say this guy asked his question satisfactorily. What I'd like to point out is that -we'll say Banna for the sake of acknowledging his question was done right- Banna had received an answer within hours of the ask time not only because his question was asked appropriately, but the fact that Banna had actively replied with the contributors his thoughts and actions taken based on what they had said. When Banna got the answer he was looking for, he thanks the contributor with enthusiasm and gives a summary of what was wrong to confirm with the contributors. This right here shows that a simple "thanks" doesn't convey as much appreciation to the contributor who had helped with the solution.
 
 <h2>The Not-so-smart way</h2>
