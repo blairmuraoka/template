@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/slippah.png
-title: Slippah Quizmaker
+title: Slippah Quizmaker 
 permalink: projects/slippah
 date: 2016
 labels:
