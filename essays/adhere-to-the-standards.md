@@ -19,7 +19,7 @@ One important thing about coding standards that I thought I should address is th
 Another thing to keep in mind is that coding standards exist to make your life easier, not harder. If following a standard that you know by heart, you should be able to read your code without having to do much tracing. Since it is easier to read, debugging your code should be a lot simpler. This is essential for programmers who work in teams as having a standardized style of writing will allow your team to be able to help each other without having to scratch their head trying to figure out what you were trying to do with your code.
 </p>
 <h1>The Learning Process</h1>
-<img src="/images/jsfordummies.png" style="float: left; margin-right: 20px; margin-bottom: 20px">
+<img src="/images/jsfordummies.png" style="float: left; margin-right: 20px">
 <p>
 Let's say you are taking a course working with some new programming language. The first step to understand what is probably going on is to understand the basic structure of how things are done in that language. For example, in ICS 314 Software Engineering, we use the Airbnb coding standards and some of the rules are to avoid the usage of var (<a href="https://github.com/airbnb/javascript#references">Airbnb 2</a>), to such things as substituting the exponential function Math.pow(num, power) to using a ** operator (<a href="https://github.com/airbnb/javascript#es2016-properties--exponentiation-operator">Airbnb 12.3</a>). Learning these types of things will allow you to adhere to the coding standard you are following and allow you to understand what is happening. Eventually you will become proficient enough to understand what is happening in other languages.
 </p>
