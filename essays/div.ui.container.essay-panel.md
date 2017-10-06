@@ -1,3 +1,12 @@
+---
+layout: essay
+type: essay
+title: div.ui.container.essay-panel
+date: 2017-10-05
+labels: 
+  - HTML
+  - CSS
+---
 <p>
 	Bootstrap. That's the first thing I thought of when I started the UI Frameworks module. I only had a bit of understanding of HTML and CSS when I started and never bothered to learn about different frameworks, although I know pretty much every website uses one. 
 </p>
