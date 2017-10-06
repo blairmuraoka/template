@@ -15,7 +15,7 @@ labels:
 <div>
 <img src="/images/semantic-logo.png" style="float: left; border-radius: 50%; padding-right: 15px;">
 <p>
-	Enter <a href="https://semantic-ui.com/">Semantic UI</a>, a framework I only knew as a Bootstrap alternative. Initially, I expected to be working with Bootstrap and was looking forward to it as I've put off learning it for quite a while. So when I finally decided to look at the module for the week and saw Semantic UI, I was a little disappointed. I've never heard of it and immediately thought of it as a knock-off Bootstrap, <i>this should be fun <small style="font-size: 5px">(/sarcasm)</small></i>. In the week that followed, I developed a love-hate relationship with this framework and although I don't hold the same contempt for it as I originally had, it made me curious to know the difference between the two frameworks.
+	Enter <a href="https://semantic-ui.com/">Semantic UI</a>, a framework I only knew as a Bootstrap alternative. Initially, I expected to be working with Bootstrap and was looking forward to it as I've put off learning it for quite a while. So when I finally decided to look at the module for the week and saw Semantic UI, I was a little disappointed. I've never heard of it and immediately thought of it as a knock-off Bootstrap, <i>this should be fun <small>(/sarcasm)</small></i>. In the week that followed, I developed a love-hate relationship with this framework and although I don't hold the same contempt for it as I originally had, it made me curious to know the difference between the two frameworks.
 </p>
 </div>
 
