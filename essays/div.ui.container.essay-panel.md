@@ -13,7 +13,7 @@ labels:
 
 <h2>Semantic UI</h2>
 <div>
-<img src="/images/semantic-logo.png" style="float: left; border-radius: 50%; padding-right: 15px;">
+<img class="ui left circular floated image" src="/images/semantic-logo.png">
 <p>
 	Enter <a href="https://semantic-ui.com/">Semantic UI</a>, a framework I only knew as a Bootstrap alternative. Initially, I expected to be working with Bootstrap and was looking forward to it as I've put off learning it for quite a while. So when I finally decided to look at the module for the week and saw Semantic UI, I was a little disappointed. I've never heard of it and immediately thought of it as a knock-off Bootstrap, <i>this should be fun <small>(/sarcasm)</small></i>. In the week that followed, I developed a love-hate relationship with this framework and although I don't hold the same contempt for it as I originally had, it made me curious to know the difference between the two frameworks.
 </p>
@@ -31,7 +31,7 @@ labels:
 
 <h2>MangaStream - Your Choice</h2>
 <div>
-<a href="https://blairmuraoka.github.io/images/mangastream-semanticui.png"><img src="/images/mangastream-semanticui.png" style="float: right; width: 450px; height 150px; padding-left: 10px; border-radius: 15px;"></a>
+<a href="https://blairmuraoka.github.io/images/mangastream-semanticui.png"><img src="/images/mangastream-semanticui.png" style="float: right; width: 450px; height 150px; padding-left: 10px;"></a>
 <p>
 	The final task was to clone a <a href="http://mangastream.com/">website of our choice</a> using the framework, given that the website didn't already use Semantic UI. This wasn't timed, but it was no easy task for me. Sure, I had read up on the documentation, but during the process, I had to learn how different elements would interact with other elements, and the documentation doesn't provide an answer for everything. I had to really look into why this element wasn't behaving the way I said I wanted it to and the whole debugging process drove me insane. However, as things started to make more sense and came together, it became a lot easier to figure out what elements I would need to use. I started thinking in a structural sense after a few hours of trying to make things work because the documentation said it would. Before I knew it, I was done and that feeling of closing your IDE knowing you've done a good-enough job is just pure ecstasy. I say good-enough because some things that I did using some CSS tricks and not Semantic UI because I didn't know (text over a photo and transparent background).
 </p>
