@@ -28,7 +28,7 @@ labels:
 
 <h2>MangaStream - Your Choice</h2>
 <div>
-<a href="https://blairmuraoka.github.io/images/mangastream-semanticui.png"><img src="/images/mangastream-semanticui.png" style="float: right; width: 450px; height 150px;"></a>
+<a href="https://blairmuraoka.github.io/images/mangastream-semanticui.png"><img src="/images/mangastream-semanticui.png" style="float: right; width: 450px; height 150px; padding-left: 10px;"></a>
 <p>
 	The final task was to clone a <a href="http://mangastream.com/">website of our choice</a> using the framework, given that the website didn't already use Semantic UI. This wasn't timed, but it was no easy task for me. Sure, I had read up on the documentation, but during the process, I had to learn how different elements would interact with other elements, and the documentation doesn't provide an answer for everything. I had to really look into why this element wasn't behaving the way I said I wanted it to and the whole debugging process drove me insane. However, as things started to make more sense and came together, it became a lot easier to figure out what elements I would need to use. I started thinking in a structural sense after a few hours of trying to make things work because the documentation said it would. Before I knew it, I was done and that feeling of closing your IDE knowing you've done a good-enough job is just pure ecstasy. I say good-enough because some things that I did using some CSS tricks and not Semantic UI because I didn't know (text over a photo and transparent background).
 </p>
