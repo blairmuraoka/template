@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Think Twice
-date: 2017-09-21
+date: 2017-11-30
 labels:
   - Software Engineering
   - Ethics
