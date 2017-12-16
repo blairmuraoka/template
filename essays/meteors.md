@@ -31,4 +31,4 @@ labels:
 <p>
 	My ego is inflated. I make many syntax errors and get mad at Meteor instead. But I'm learning to overcome this... stepping stone to become a better programmer. Meteor has a lot of things I don't understand but that is why I cannot love or hate this just yet as there may be a light at the end of the tunnel that makes me love the framework. Or no light and I end up hating it.
 </p>
-<p>Link to digits project page will be implemented soon after it is graded.</p>
+<p><a href="https://github.com/blairmuraoka/digits-1">Digits Project Repository.</a></p>
