@@ -6,7 +6,7 @@
     "email": "blairmuraoka@gmail.com",
     "phone": "",
     "website": "https://blairmuraoka.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2019.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,18 +30,15 @@
   "interests": [
     {
       "name": "internet of things",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "web design & development",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "graphics",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -75,8 +72,7 @@
       "startDate": "2015-08-22",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
